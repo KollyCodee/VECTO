@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ITrhYRVfcNPb1pV6D22aShpmRhu5VcphmMkvZoRGgJGMFYEbPGa1cT3cVA5tFb/uBJ6qhTr+2Ueg1NvU+lfE+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kolly\\source\\repos\\VectoTest\\VectoTest\\VectoTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kolly\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\kolly\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
